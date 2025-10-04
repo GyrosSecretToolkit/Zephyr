@@ -7,4 +7,4 @@ A secret hunting tool that utilizes as many apis as possible to find secrets wit
 
 2: install fyne; https://docs.fyne.io/started/
 
-3: compile; https://docs.fyne.io/started/cross-compiling
+3: compile; in the terminal, cd into the Zephyr folder and run: "go build ."
